@@ -5,9 +5,9 @@
 # **Teaching**
 
 
-### Applied Economic Theory (UNT) - 2022
+### Applied Economic Theory (UNT)
 
-### Principles of Economics I (UNT) - 2023
+### Principles of Economics I (UNT)
 
 # **Research**
 ### Publications
@@ -17,7 +17,8 @@
 ### Work in Progress
 
 # **Contact**
-
+Phone: +549 381 6000000
+e-mail:
 Av. Independencia 1900
 S.M de Tucumán - Tucumán
 Argentina
