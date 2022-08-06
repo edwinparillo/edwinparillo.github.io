@@ -1,8 +1,8 @@
-# **Bio**
+# **_Bio_**
 
 
 
-# **Teaching**
+# **_Teaching_**
 
 
 ### Applied Economic Theory (UNT) - 2022
@@ -16,7 +16,7 @@
 
 ### _Work in Progress_
 
-# **Contact**
+# **_Contact_**
 
 Av. Independencia 1900
 S.M de Tucumán - Tucumán
