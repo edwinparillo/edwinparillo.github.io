@@ -3,7 +3,8 @@
 
 
 # **Teaching**
-[Link]([[url]()]()) and ![Image](src)
+
+
 ### Applied Economic Theory (UNT) - 2022
 
 ### Principles of Economics I (UNT) - 2023
