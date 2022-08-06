@@ -1,5 +1,5 @@
 # **Edwin Parillo**
-## Bio
+### Bio
 
 
 # **Teaching**
