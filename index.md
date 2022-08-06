@@ -1,22 +1,22 @@
-# **_Edwin Parillo_**
+# **Edwin Parillo**
+## Bio
 
 
-
-# **_Teaching_**
+# **Teaching**
 
 
 ### Applied Economic Theory (UNT) - 2022
 
 ### Principles of Economics I (UNT) - 2023
 
-# **_Research_**
-### _Publications_
+# **Research**
+### Publications
 
-### _Working Papers_
+### Working Papers
 
-### _Work in Progress_
+### Work in Progress
 
-# **_Contact_**
+# **Contact**
 
 Av. Independencia 1900
 S.M de Tucumán - Tucumán
