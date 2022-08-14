@@ -6,9 +6,9 @@
 # **Teaching**
 
 
-### Applied Economic Theory (UNT)
+### Applied Economic Theory
 
-### Principles of Economics I (UNT)
+### Principles of Economics I
 
 # **Research**
 ### Publications
